@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  description: Static website with Zola using Neo Athamé theme
+  homepage: https://infinitivewitch.github.io
+  name: infinitivewitch.github.io
+  topics: zola, zola-theme, static-site, nix, rust
